@@ -1,0 +1,5 @@
+4.
+   a) O problema é que não são passados os parâmetros ao se instanciar a classe.
+   Solução:
+   	Animal a = new Bovino("especie", 18.6);
+   b) Não.
